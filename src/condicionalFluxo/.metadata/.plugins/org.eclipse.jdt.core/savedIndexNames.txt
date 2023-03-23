@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\workspace\java-eclipse\condicionalFluxo\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1996266821.index
+246676639.index
